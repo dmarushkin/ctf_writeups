@@ -3,5 +3,5 @@
 So here will be all CTF stuff:
 
 Hackthebox:
-05.05.2020 - ServMon
+ - [ServMon](https://github.com/dmarushkin/ctf_writeups/blob/master/hackthebox/Servmon.md) 
 
