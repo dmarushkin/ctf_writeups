@@ -1,7 +1,7 @@
-# ctf writeups
+# CTF Writeups
 
 So here will be all CTF stuff:
 
-Hackthebox:
+**Hackthebox:**
  - [ServMon](https://github.com/dmarushkin/ctf_writeups/blob/master/hackthebox/Servmon.md) 
 
